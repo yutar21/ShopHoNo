@@ -1,0 +1,24 @@
+﻿@model ShopHoNo.Models.ViewModels.AssignRoleViewModel
+@{
+    ViewData["Title"] = "Assign Roles";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Assign Roles to User</h1>
+
+<form asp-action="AssignRole" method="post">
+    <input type="hidden" asp-for="UserId" />
+    <div>
+        <label asp-for="SelectedRoles">Select Roles</label>
+        <select asp-for="SelectedRoles" asp-items="@(new MultiSelectList(Model.AvailableRoles))" multiple="multiple"></select>
+    </div>
+    <button type="submit" class="btn btn-primary">Assign Roles</button>
+</form>
+
+<h3>Assigned Roles:</h3>
+<ul>
+    @foreach (var role in Model.AssignedRoles)
+    {
+        <li>@role</li>
+    }
+</ul>

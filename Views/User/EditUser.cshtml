@@ -1,0 +1,24 @@
+﻿@model ShopHoNo.Models.ViewModels.EditUserViewModel
+@{
+    ViewData["Title"] = "Edit User";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h1>Edit User</h1>
+
+<form asp-action="EditUser" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div>
+        <label asp-for="Username"></label>
+        <input asp-for="Username" required />
+    </div>
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" required />
+    </div>
+    <div>
+        <label for="AssignedRole">Role</label>
+        <select asp-for="AssignedRole" asp-items="@(new SelectList(Model.AvailableRoles, Model.AssignedRole))" required>
+        </select>
+    </div>
+    <button type="submit">Lưu thay đổi</button>
+</form>

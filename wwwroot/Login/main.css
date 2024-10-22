@@ -1,0 +1,26 @@
+﻿.divider:after,
+.divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+.form-outline {
+    position: relative;
+}
+
+.form-label {
+    position: absolute;
+    left: 10px; /* Điều chỉnh vị trí bên trái */
+    top: 10px; /* Điều chỉnh vị trí bên trên */
+    transition: 0.2s ease all; /* Hiệu ứng chuyển động */
+    color: #999; /* Màu sắc nhãn */
+}
+
+.form-control:focus + .form-label,
+.form-control:not(:placeholder-shown) + .form-label {
+    top: -10px; /* Di chuyển nhãn lên trên */
+    left: 10px; /* Giữ vị trí bên trái */
+    font-size: 12px; /* Kích thước chữ nhỏ hơn */
+    color: #007bff; /* Màu sắc nhãn khi có giá trị */
+}

@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Revenue Statistics";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Revenue Statistics</h1>
+
+<div>
+    <h2>Select Date</h2>
+    <input type="date" id="selectedDate" />
+    <button id="fetchRevenue" class="btn btn-primary">Get Revenue</button>
+</div>
+
+<div>
+    <h2>Total Revenue for Selected Date</h2>
+    <p id="totalRevenue"></p>
+</div>
+
+<div>
+    <h2>Product-wise Revenue</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Total Revenue</th>
+            </tr>
+        </thead>
+        <tbody id="productRevenueTable">
+            <!-- Product revenue data will be populated here -->
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById('fetchRevenue').addEventListener('click', function () {
+            const selectedDate = document.getElementById('selectedDate').value;
+            if (selectedDate) {
+                fetch(`/Orders/GetRevenueByDate?date=${selectedDate}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        // Display total revenue
+                        document.getElementById('totalRevenue').innerText = `Total Revenue: $${data.totalRevenue.toFixed(2)}`;
+
+                        // Populate Product-wise Revenue Table
+                        const productTable = document.getElementById('productRevenueTable');
+                        productTable.innerHTML = ''; // Clear previous data
+                        data.productRevenue.forEach(item => {
+                            const row = `<tr><td>${item.ProductName}</td><td>${item.Total.toFixed(2)}</td></tr>`;
+                            productTable.innerHTML += row;
+                        });
+                    });
+            } else {
+                alert("Please select a date.");
+            }
+        });
+    </script>
+}

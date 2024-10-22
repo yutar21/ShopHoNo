@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ShopHoNo.Models.Order>
+
+@{
+    ViewData["Title"] = "Orders List";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Orders List</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Full Name</th>
+            <th>Phone Number</th>
+            <th>Address</th>
+            <th>Notes</th>
+            <th>Status</th> <!-- Thêm cột trạng thái -->
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.FullName</td>
+                <td>@order.PhoneNumber</td>
+                <td>@order.Address</td>
+                <td>@order.Notes</td>
+                <td>@order.OrderStatus?.StatusName</td> <!-- Hiển thị trạng thái đơn hàng -->
+                <td>
+                    <a asp-action="Details" asp-route-id="@order.Id" class="btn-warning">Details</a> |
+                    <a asp-action="Edit" asp-route-id="@order.Id" class="btn btn-sm btn-info">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@order.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

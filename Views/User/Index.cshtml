@@ -1,0 +1,38 @@
+﻿@model IEnumerable<dynamic> // Change to dynamic because we are using an anonymous type
+@{
+    ViewData["Title"] = "User List";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2>User List</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Roles</th> <!-- New column for roles -->
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var userRole in Model)
+        {
+            <tr>
+                <td>@userRole.User.UserName</td>
+                <td>@userRole.User.Email</td>
+                <td>
+                    @string.Join(", ", userRole.Roles) <!-- Display roles as a comma-separated list -->
+                </td>
+                <td>
+                    <a asp-action="EditUser" asp-route-id="@userRole.User.Id" class="btn btn-warning">Edit</a>
+
+                    <form asp-action="DeleteUser" asp-route-id="@userRole.User.Id" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="CreateUser" class="btn btn-primary">Create New User</a>

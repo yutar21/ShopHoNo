@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Microsoft.AspNetCore.Identity.IdentityRole>
+@{
+    ViewData["Title"] = "Orders List";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2>List Role</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Role Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var role in Model)
+        {
+            <tr>
+                <td>@role.Name</td>
+                <td>
+                    <form asp-action="DeleteRole" asp-route-id="@role.Id" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="CreateRole" class="btn btn-primary">Create New Role</a>

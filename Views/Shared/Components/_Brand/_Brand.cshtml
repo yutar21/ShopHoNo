@@ -1,0 +1,29 @@
+﻿@model IEnumerable<ShopHoNo.Models.Brand>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<div class="flex-w p-t-4 m-r--5">
+	@foreach (var item in Model)
+	{
+        <button class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5 brand-button" data-brand-id="@item.BrandId">
+			@item.BrandName
+		</button>
+	}
+</div>
+<script>
+
+    $(document).on('click', '.brand-button', function () {
+        var brandId = $(this).data('brand-id'); // Lấy BrandId từ nút
+        $.ajax({
+            url: '@Url.Action("FilterProductsByBrand", "Products")',
+            type: 'GET',
+            data: { BrandId: brandId }, // Gửi BrandId
+            success: function (data) {
+                $('#product-list').html(data); // Cập nhật danh sách sản phẩm
+            },
+            error: function (xhr, status, error) {
+                console.error("AJAX Error: " + status + error);
+            },
+        });
+    });
+</script>

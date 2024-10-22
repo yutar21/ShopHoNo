@@ -1,0 +1,41 @@
+﻿@model ShopHoNo.Models.User
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+}
+
+<div class="container" style="display: flex; justify-content: center; height: 100vh;">
+    <div class="col-md-5" style="margin-right: 20px; margin-top: 90px;">
+        <form asp-action="Register" asp-controller="Account" method="post">
+            <div asp-validation-summary="All" class="text-danger mb-3"></div>
+            @* Hiển thị thông báo từ TempData *@
+            @if (TempData["Message"] != null)
+            {
+                <div class="alert alert-info">
+                    @TempData["Message"]
+                </div>
+            }
+
+            <div data-mdb-input-init class="form-outline mb-4">
+                <input asp-for="Username" type="text" class="form-control form-control-lg" id="Username" placeholder=" " />
+                <label class="form-label" for="Username">Username</label>
+                <span asp-validation-for="Username"></span>
+            </div>
+
+            <div data-mdb-input-init class="form-outline mb-4">
+                <input asp-for="Email" type="text" class="form-control form-control-lg" id="Email" placeholder=" " />
+                <label class="form-label" for="Email">Email address</label>
+                <span asp-validation-for="Email"></span>
+            </div>
+
+            <div data-mdb-input-init class="form-outline mb-4">
+                <input asp-for="Password" type="password" class="form-control form-control-lg" id="Password" placeholder=" " />
+                <label class="form-label" for="Password">Password</label>
+                <span asp-validation-for="Password"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-lg btn-block">Register</button>
+        </form>
+    </div>
+</div>
+

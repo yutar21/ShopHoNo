@@ -1,0 +1,110 @@
+﻿@model ShopHoNo.Models.Product // Change this to Product
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Create Product</h1>
+
+<h4>Product Details</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Image" class="control-label"></label>
+                <input asp-for="Image" class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SizeId" class="control-label"></label>
+                <select asp-for="SizeId" class="form-control" asp-items="ViewBag.SizeId"></select>
+                <span asp-validation-for="SizeId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BrandId" class="control-label"></label>
+                <select asp-for="BrandId" class="form-control" asp-items="ViewBag.BrandId"></select>
+                <span asp-validation-for="BrandId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label"></label>
+                <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId"></select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById('productSelect').addEventListener('change', function () {
+            var selectedOption = this.options[this.selectedIndex];
+            if (selectedOption.value) {
+                var productId = selectedOption.value;
+                var productName = selectedOption.text;
+                var productPrice = parseFloat(selectedOption.getAttribute('data-price')); // Ensure price is parsed as float
+                var productImage = selectedOption.getAttribute('data-image');
+
+                var productDiv = document.createElement('div');
+                productDiv.classList.add('product-item');
+                productDiv.innerHTML = `
+                    <img src="${productImage}" alt="${productName}" class="img-thumbnail" style="max-width: 100px; height: auto;" />
+                    <span>${productName}</span>
+                    <input type="hidden" name="productIds" value="${productId}" data-price="${productPrice}" />
+                    <input type="number" name="quantities" min="1" value="1" class="product-quantity" />
+                    <button type="button" class="btn btn-danger btn-sm remove-product">Remove</button>
+                `;
+
+                document.getElementById('selectedProducts').appendChild(productDiv);
+
+                productDiv.querySelector('.remove-product').addEventListener('click', function () {
+                    productDiv.remove();
+                    calculateTotal();
+                });
+
+                productDiv.querySelector('.product-quantity').addEventListener('input', calculateTotal);
+
+                calculateTotal();
+            }
+        });
+
+        function calculateTotal() {
+            var total = 0;
+            document.querySelectorAll('.product-item').forEach(function (productDiv) {
+                var price = parseFloat(productDiv.querySelector('input[name="productIds"]').getAttribute('data-price')); // Ensure price is parsed as float
+                var quantity = parseInt(productDiv.querySelector('.product-quantity').value);
+                total += price * quantity;
+            });
+            document.getElementById('totalAmount').innerText = total.toFixed(2);
+        }
+    </script>
+}

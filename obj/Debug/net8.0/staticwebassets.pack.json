@@ -1,0 +1,2073 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShopHoNo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShopHoNo.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\Login\\main.css",
+      "PackagePath": "staticwebassets\\Login\\main.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\css\\main.css",
+      "PackagePath": "staticwebassets\\publicHome\\css\\main.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\css\\util.css",
+      "PackagePath": "staticwebassets\\publicHome\\css\\util.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\PlayfairDisplay\\OFL.txt",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\PlayfairDisplay\\OFL.txt"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\fonts\\linearicons-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\publicHome\\fonts\\linearicons-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\gif\\loading.gif",
+      "PackagePath": "staticwebassets\\publicHome\\gif\\loading.gif"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\about-01.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\about-01.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\about-02.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\about-02.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\avatar-01.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\banner-01.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\banner-01.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\banner-02.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\banner-03.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\banner-04.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\banner-04.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\banner-05.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\banner-05.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\banner-06.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\banner-06.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\banner-07.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\banner-07.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\banner-08.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\banner-08.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\banner-09.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\banner-09.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\bg-02.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\bg-02.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\blog-01.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\blog-02.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\blog-03.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\blog-04.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\blog-05.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\blog-05.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\blog-06.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\blog-06.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\gallery-01.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\gallery-01.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\gallery-02.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\gallery-02.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\gallery-03.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\gallery-03.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\gallery-04.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\gallery-04.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\gallery-05.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\gallery-05.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\gallery-06.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\gallery-06.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\gallery-07.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\gallery-07.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\gallery-08.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\gallery-08.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\gallery-09.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\gallery-09.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\icon-close.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\icon-close.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\icon-close2.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\icon-close2.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\icon-email.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\icon-email.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\icon-heart-01.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\icon-heart-01.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\icon-heart-02.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\icon-heart-02.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\icon-next.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\icon-next.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\icon-pay-01.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\icon-pay-01.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\icon-pay-02.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\icon-pay-02.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\icon-pay-03.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\icon-pay-03.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\icon-pay-04.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\icon-pay-04.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\icon-pay-05.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\icon-pay-05.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\icon-prev.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\icon-prev.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\logo-01.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\logo-01.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\logo-02.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\icons\\pin.png",
+      "PackagePath": "staticwebassets\\publicHome\\images\\icons\\pin.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\item-cart-01.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\item-cart-01.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\item-cart-02.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\item-cart-02.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\item-cart-03.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\item-cart-03.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\item-cart-04.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\item-cart-04.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\item-cart-05.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\item-cart-05.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-01.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-01.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-02.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-02.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-03.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-03.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-04.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-04.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-05.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-05.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-06.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-06.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-07.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-07.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-08.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-08.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-09.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-09.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-10.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-11.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-12.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-13.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-13.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-14.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-14.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-15.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-15.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-16.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-16.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-detail-01.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-detail-01.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-detail-02.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-detail-02.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-detail-03.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-detail-03.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-min-01.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-min-01.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-min-02.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-min-02.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\product-min-03.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\product-min-03.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\slide-01.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\slide-01.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\slide-02.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\slide-02.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\slide-03.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\slide-03.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\slide-04.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\slide-04.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\slide-05.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\slide-05.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\slide-06.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\slide-06.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\slide-07.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\slide-07.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\thumb-01.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\thumb-01.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\thumb-02.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\thumb-02.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\images\\thumb-03.jpg",
+      "PackagePath": "staticwebassets\\publicHome\\images\\thumb-03.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\js\\main.js",
+      "PackagePath": "staticwebassets\\publicHome\\js\\main.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\js\\map-custom.js",
+      "PackagePath": "staticwebassets\\publicHome\\js\\map-custom.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\js\\slick-custom.js",
+      "PackagePath": "staticwebassets\\publicHome\\js\\slick-custom.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\MagnificPopup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\MagnificPopup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\MagnificPopup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\MagnificPopup\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\index.html"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\parallax100\\parallax100.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\parallax100\\parallax100.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\publicHome\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\publicHome\\vendor\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\MagnificPopup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\vendor\\MagnificPopup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\MagnificPopup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\vendor\\MagnificPopup\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\index.html"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\parallax100\\parallax100.js",
+      "PackagePath": "staticwebassets\\vendor\\parallax100\\parallax100.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "D:\\HocTap\\DuAn\\ShopHoNo\\ShopHoNo\\wwwroot\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\vendor\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopHoNo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShopHoNo.props",
+      "PackagePath": "build\\ShopHoNo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopHoNo.props",
+      "PackagePath": "buildMultiTargeting\\ShopHoNo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShopHoNo.props",
+      "PackagePath": "buildTransitive\\ShopHoNo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

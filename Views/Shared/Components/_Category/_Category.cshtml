@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ShopHoNo.Models.Category>
+
+<div class="flex-w flex-l-m filter-tope-group m-tb-10">
+    <button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 all-products-button" data-filter="*">
+        All Products
+    </button>
+
+    @foreach (var item in Model)
+    {
+        <button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 category-button" data-category-id="@item.CategoryId">
+            @item.CategoryName
+        </button>
+    }
+</div>
+<script>
+    $(document).on('click', '.all-products-button', function () {
+        $.ajax({
+            url: '@Url.Action("GetAllProducts", "Products")', // Gọi phương thức GetAllProducts
+            type: 'GET',
+            success: function (data) {
+                $('#product-list').html(data); // Cập nhật danh sách sản phẩm
+            },
+            error: function (xhr, status, error) {
+                console.error("AJAX Error: " + status + error);
+            },
+
+        });
+    });
+
+    $(document).on('click', '.category-button', function () {
+        var categoryId = $(this).data('category-id');
+        $.ajax({
+            url: '@Url.Action("FilterProductsByCategory", "Products")',
+            type: 'GET',
+            data: { categoryId: categoryId },
+            success: function (data) {
+                $('#product-list').html(data); // Cập nhật danh sách sản phẩm
+            },
+            error: function (xhr, status, error) {
+                console.error("AJAX Error: " + status + error);
+            },
+        });
+    });
+</script>
